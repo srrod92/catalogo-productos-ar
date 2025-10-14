@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "nombre": "Mueble Antiguo",
+  "descripcion": "Un antiguo mueble de una epoca olvidada",
+  "modelo3dUrl": "",
+  "imagenUrl": "",
+  "precio": 589999.99,
+  "medidasX": 0.6,
+  "medidasY": 1.8,
+  "medidasZ": 0.7,
+  "updatedAt": "2025-10-10T14:00:00Z"
+}
