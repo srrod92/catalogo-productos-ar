@@ -1,6 +1,9 @@
 {
   "id": 1,
+  "Habilitado": true,
   "nombre": "Mueble Antiguo",
+  "categoria": "Mesas",
+  "stock": 9999,
   "descripcion": "Un antiguo mueble de una epoca olvidada",
   "modelo3dUrl": "",
   "imagenUrl": "",
